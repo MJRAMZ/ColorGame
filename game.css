@@ -1,0 +1,83 @@
+/* body styling */
+body {
+    background-color: #232323;
+    margin: 0;
+    font-family: "Montserrat", "Avenir", sans-serif;
+}
+/* Container styling */
+#squareContainer{
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+/* Mini-Menu Styling */
+#menu {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+}
+
+/* color square stylings */
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15%;
+    transition: background 0.6s;
+    -webkit-transition: background 0.6s;
+    -moz-transition: background 0.6s;
+}
+
+/* Title Styling */
+h1 {
+    color: white;
+    text-align: center;
+    line-height: 1.1;
+    text-transform: uppercase;
+    font-weight: normal;
+    background-color: darkslategray;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+#colorDisplay {
+    font-size: 200%;
+}
+
+/* Easy/Hard Button Styling */
+.selected {
+    color: white;
+    background: darkslategray;
+}
+
+button {
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: darkslategray;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    outline: none;
+
+}
+
+button:hover {
+    color: white;
+    background: darkslategray;
+}
+
+#message {
+    display: inline-block;
+    width: 20%;
+}
+
