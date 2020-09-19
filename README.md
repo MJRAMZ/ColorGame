@@ -5,8 +5,6 @@ RGB Color guessing game project created for an online webdev course.
 ## Concept
 -An RGB color code is selected at random. Then 3 to 6 colored squares are generated based on the mode selected. The user then has to guess which colored square matches the RGB code.
 
-![Random RGB Code](/game_imgs/Random_RGB.png)
-
 *Two modes: _**EASY**_ and _**HARD**_
     *EASY mode: 3 squares
     ![EasyMode](/game_imgs/easy_mode.png)
