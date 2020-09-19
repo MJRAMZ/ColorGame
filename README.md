@@ -13,5 +13,5 @@ There are Two modes: _**EASY**_ and _**HARD**_
 - HARD mode: 6 squares
     ![HardMode](/game_imgs/hard_mode.png)
     
-### Demo
-![Demo](/game_imgs/RGBColorGame-Demo.gif)
+- ### Demo
+    ![Demo](/game_imgs/RGBColorGame-Demo.gif)
