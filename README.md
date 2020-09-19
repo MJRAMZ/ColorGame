@@ -1,6 +1,6 @@
 # ColorGame
 RGB Color guessing game project created for an online webdev course.
- -Uses HTML, CSS and JavaScript
+- Uses HTML, CSS and JavaScript
 
 ## Concept
 An RGB color code is selected at random. Then 3 to 6 colored squares are generated based on the mode selected. The user then has to guess which colored square matches the RGB code.
